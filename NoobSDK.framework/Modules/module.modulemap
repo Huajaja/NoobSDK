@@ -1,0 +1,11 @@
+framework module NoobSDK {
+  umbrella header "NoobSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module NoobSDK.Swift {
+    header "NoobSDK-Swift.h"
+    requires objc
+}
