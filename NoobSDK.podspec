@@ -4,7 +4,7 @@ s.name          = 'NoobSDK'
 s.version       = '0.1.0-beta'
 s.summary       = 'NoobSDK'
 
-s.homepage      = ''
+s.homepage      = 'https://github.com/Huajaja'
 s.license       = 'MIT'
 s.author        = { 'Huja' => 'Houkuylek@gmail.com' }
 s.ios.deployment_target = '11.4'
