@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
 s.name          = 'NoobSDK'
-s.version       = '0.1.0-beta'
+s.version       = '0.1.1'
 s.summary       = 'NoobSDK'
 
 s.homepage      = 'https://github.com/Huajaja'
